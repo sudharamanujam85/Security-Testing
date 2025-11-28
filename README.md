@@ -1,0 +1,2 @@
+Burp Suite Manual provides step by step guide into performing Web Application Security Testing Using Burp Suite
+Phishing Using Zphisher and URL Masking with Facad1ng - Document provides, step-by-step guide on how to perform phishing simulations using **Zphisher** and enhance URL masking using the **Facad1ng** framework within a Kali Linux environment. These steps are intended strictly for ethical hacking, cybersecurity research, and authorized penetration testing.
