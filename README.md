@@ -172,10 +172,6 @@ All techniques, tools, and workflows documented in this repository are intended 
 
 ---
 
-## 👩‍💻 About
-
-Built by **Sudha** — transitioning into cybersecurity and QA automation with 20+ years of professional experience.
-
 This portfolio demonstrates hands-on practical skills in:
 - Web application security testing (Burp Suite, OWASP ZAP)
 - Cloud-based penetration testing infrastructure (AWS, Kali Linux)
